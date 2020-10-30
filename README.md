@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👋 Hi, I'm Landon!
+I'm a software developer in 🍑 Atlanta, GA (USA).
 
-<!--
-**landonreed/landonreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😄 About me 
+I work on open source software for public transit agencies, for example:
 
-Here are some ideas to get you started:
+- [Data Tools](https://github.com/ibi-group/datatools-ui) does all things GTFS (manage, validate, deploy)
+- [OpenTripPlanner](https://github.com/opentripplanner/opentripplanner) is a multimodal trip planner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my recent experience is in full-stack applications built with Java and React.
+
+### 📫 Get in touch
+- 📧 You can reach me at [Twitter](https://twitter.com/eltiar) or [Linkedin](https://linkedin.com/in/landonreed)

@@ -2,12 +2,7 @@
 I'm a software developer in 🍑 Atlanta, GA (USA).
 
 ### 😄 About me 
-I work on open source software for public transit agencies, for example:
-
-- [Data Tools](https://github.com/ibi-group/datatools-ui) does all things GTFS (manage, validate, deploy)
-- [OpenTripPlanner](https://github.com/opentripplanner/opentripplanner) is a multimodal trip planner
-
-Most of my recent experience is in full-stack applications built with Java and React.
+For the past few years I've worked on various software products for 🚌 and 🚆. As of October 2021, I'm continuing that work with the fine folks at [Remix](https://www.remix.com/)!
 
 ### 📫 Get in touch
 - 📧 You can reach me at [Twitter](https://twitter.com/eltiar) or [Linkedin](https://linkedin.com/in/landonreed)
